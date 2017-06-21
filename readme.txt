@@ -1,5 +1,7 @@
 To run: download repo and open index.js in your browser. No server needed.
 
+To edit the quiz: open app.js and pass your own questions into the quiz0 array using the Question() constructor. The Question constructor receives three arguments: Question[string], answer options[array of strings], correct answer[index value of correct answer in the answer optionsarray]
+
 This quiz app has yet to be expanded to include multiple
 quizzes. 
 
